@@ -1,0 +1,8 @@
+{
+  "name": "Remix: local",
+  "description": "auto images whisk then import and perfectly sync and effects zoom in and zoom out 150 scens",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
